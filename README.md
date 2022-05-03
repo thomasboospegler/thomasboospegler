@@ -5,7 +5,7 @@ Fullstack Web Developer Student at Trybe
 ----------------------------------------
 
 * 🌍  I'm based in Santa Cruz Bolivia
-* 🖥️  See my portfolio at [LinkedIn](http://https://www.linkedin.com/in/thomasboospegler/)
+* 🖥️  See my portfolio at [LinkedIn](http://www.linkedin.com/in/thomasboospegler/)
 * ✉️  You can contact me at [tboospegler@gmail.com](mailto:tboospegler@gmail.com)
 * 🧠  I'm learning Software Development, Front-End, Back-End and Computer Science at [Trybe](https://www.betrybe.com/)
 
