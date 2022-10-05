@@ -26,10 +26,6 @@
 <p align="left"> <a href="https://www.facebook.com/thomas.boospegler" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/thomasboospegler" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/thomaspegler_" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/thomasboospegler" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/thomasbpegler" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
 ##
-<div align="center">
-  <a href="https://github.com/thomasboospegler">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=thomasboospegler&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thomasboospegler&layout=compact&langs_count=7&theme=tokyonight"/>
 
 ![Snake animation](https://github.com/thomasboospegler/thomasboospegler/blob/output/github-contribution-grid-snake.svg)
 </div>
