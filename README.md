@@ -30,3 +30,8 @@
 ![Snake animation](https://github.com/thomasboospegler/thomasboospegler/blob/output/github-contribution-grid-snake.svg)
 </div>
 
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/thomasboospegler/count.svg" />
+</p>
+
