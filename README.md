@@ -32,10 +32,10 @@
 </p>
 
 ##
-<p align="center"> 
+<!-- <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/thomasboospegler/count.svg" />
-</p>
+</p> -->
 
 ![Snake animation](https://github.com/thomasboospegler/thomasboospegler/blob/output/github-contribution-grid-snake.svg)
 </div>
