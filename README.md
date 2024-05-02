@@ -8,7 +8,6 @@
 - 📫 Please get in touch if you have any questions.
 
 ## Tools and Technologies :computer:
-<br>
 <div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
 	<div class="table-container">
 	<h3>Core</h3>
